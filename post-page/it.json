@@ -3,8 +3,8 @@
 	"recommend_reading": "Consiglio di lettura",
 	"post_preview_alternative_text": "Pubblica anteprima testo alternativo",
 	"modal": {
-		"title": "Modifica della lingua di un post",
-		"content": "La lingua del post è diversa dalla lingua selezionata, vorresti tradurla utilizzando Google Translate?",
+		"title": "Modifica della lingua del messaggio",
+		"content": "La lingua del messaggio è diversa dalla lingua selezionata, vorresti tradurla tramite Google Translate?",
 		"translate": "Tradurre",
 		"cancel": "Annulla"
 	}
