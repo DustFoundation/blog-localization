@@ -22,5 +22,23 @@
 	"partnerships": "Partnership",
 	"stay_up_latest_news": "Rimani aggiornato con le ultime novità",
 	"sign_in": "Accedi",
-	"sign_up": "Iscriviti"
+	"sign_up": "Iscriviti",
+  "languages": {
+    "ru": "Русский",
+    "en": "English",
+    "uk": "Українська",
+    "lv": "Latviešu",
+    "it": "Italiano",
+    "de": "Deutsch",
+    "zh": "中文"
+  },
+  "languages_short": {
+    "ru": "Рус",
+    "en": "Eng",
+    "uk": "Укр",
+    "lv": "Lat",
+    "it": "Ita",
+    "de": "Deu",
+    "zh": "中文"
+  }
 }
